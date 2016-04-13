@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.638,=C:\Users\Вова\Desktop\АПиТ\Excel\VBIDE_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,=C:\Users\Вова\Desktop\АПиТ\Excel\Excel_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,C:\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Вова\Desktop\АПиТ\Excel\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.354,C:\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Вова\Desktop\АПиТ\Excel\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,=C:\Users\Вова\Desktop\АПиТ\Excel\Office_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.646,=C:\Users\Dima\Documents\RAD Studio\12.0\Imports\Graph_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.953,C:\Users\Dima\Documents\RAD Studio\12.0\Imports\Graph_TLB.pas=E:\Учеба\Автамотиз\Excel\Graph_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=C:\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.782,=C:\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.415,C:\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Вова\Desktop\АПиТ\Excel\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,=C:\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,=C:\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,=C:\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,=C:\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
